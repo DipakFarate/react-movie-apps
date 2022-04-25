@@ -4,7 +4,7 @@ https://dipakfarate.github.io/react-movie-apps/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+1
 In the project directory, you can run:
 
 ### `npm start`
